@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "function dispatch() {\n              return !window.__REDUX_DEVTOOLS_EXTENSION_LOCKED__ ": "",
+      " o.dispatch.apply(o, arguments);\n            }": "",
+      "id": 1
+    },
+    {
+      "function dispatch() {\n              return !window.__REDUX_DEVTOOLS_EXTENSION_LOCKED__ ": "",
+      " o.dispatch.apply(o, arguments);\n            }": "",
+      "id": 2
+    },
+    {
+      "title": "My Stream",
+      "description": "This is great stream",
+      "id": 3
+    }
+  ]
+}
